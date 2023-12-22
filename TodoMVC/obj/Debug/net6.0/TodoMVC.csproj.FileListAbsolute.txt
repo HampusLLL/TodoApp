@@ -1,0 +1,262 @@
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\appsettings.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.exe
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.deps.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.runtimeconfig.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.pdb
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Azure.Core.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Azure.Identity.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.CodeDom.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Text.Json.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.AssemblyReference.cache
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.AssemblyInfoInputs.cache
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.AssemblyInfo.cs
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.CoreCompileInputs.cache
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.TodoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoMVC.props
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoMVC.props
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoMVC.props
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\scopedcss\bundle\TodoMVC.styles.css
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.CopyComplete
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\refint\TodoMVC.dll
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.pdb
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.genruntimeconfig.cache
+D:\VisualStudio Repos\TodoMVC\TodoMVC\obj\Debug\net6.0\ref\TodoMVC.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.exe
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.deps.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.runtimeconfig.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.pdb
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.AssemblyReference.cache
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.AssemblyInfoInputs.cache
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.AssemblyInfo.cs
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.CoreCompileInputs.cache
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.TodoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoMVC.props
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoMVC.props
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoMVC.props
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\scopedcss\bundle\TodoMVC.styles.css
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.CopyComplete
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\refint\TodoMVC.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.pdb
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.genruntimeconfig.cache
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\obj\Debug\net6.0\ref\TodoMVC.dll
+C:\Users\hejhej\Desktop\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.exe
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.deps.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.runtimeconfig.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\TodoMVC.pdb
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.AssemblyReference.cache
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.AssemblyInfoInputs.cache
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.AssemblyInfo.cs
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.CoreCompileInputs.cache
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.TodoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.TodoMVC.props
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TodoMVC.props
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TodoMVC.props
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\scopedcss\bundle\TodoMVC.styles.css
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.csproj.CopyComplete
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\refint\TodoMVC.dll
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.pdb
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\TodoMVC.genruntimeconfig.cache
+C:\Users\hejhej\Desktop\Blandat\TodoMVC\TodoMVC\obj\Debug\net6.0\ref\TodoMVC.dll
