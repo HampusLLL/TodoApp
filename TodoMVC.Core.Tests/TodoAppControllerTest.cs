@@ -78,5 +78,27 @@ namespace TodoMVC.Core.Tests
             Assert.Contains(remainingNotes, n => n.ID == 3 && n.text == "Yet Another Test" && n.isDone == false);
             Assert.Equal(2, remainingNotes.Count);
         }
+
+        [Fact]
+        public async Task Clear_Completed_Todos_Reassure_Data_Is_Removed_Correctly_Api_Test()
+        {
+            // Arrange
+            var _context = CreateInitializedContext();
+            _context.Notes.Add(new Notes { ID = 1, text = "Test", isDone = false });
+            _context.Notes.Add(new Notes { ID = 2, text = "Another Test", isDone = true });
+            _context.Notes.Add(new Notes { ID = 3, text = "Yet Another Test", isDone = true });
+            _context.SaveChanges();
+
+            var controller = new TodoController(_context);
+
+            // Act
+            await controller.ClearCompleted();
+
+            // Assert
+            var remainingNotes = _context.Notes.ToList();
+
+            Assert.Contains(remainingNotes, n => n.ID == 1 && n.text == "Test" && n.isDone == false);
+            Assert.Single(remainingNotes);
+        }
     }
 }
